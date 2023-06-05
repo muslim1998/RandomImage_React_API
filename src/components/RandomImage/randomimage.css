@@ -1,0 +1,16 @@
+.container {
+    width: 90%;
+    margin: 100px auto;
+    border: 1px solid #ddd;
+    padding: 1rem;
+}
+
+.images-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1 rem;
+}
+
+button {
+    margin-bottom: 30px;
+}
